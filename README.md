@@ -15,12 +15,12 @@ If you do not know how to do this, follow these steps.
 7. If you have everything, it is your turn to make a diagram.
 
 
-    make_html_diagram(
-        df = df, x = "local_date_time",
-        y = ["air_humidity", "humidity", "temperature"],
-        username = "vazgen-gasparyan", title = "Plotly diagram",
-        charts_colors = ["#52A8DE", "#60E450", "#E03737"],
-        x_label = "Date and time", y_label = "Data sizes",
-        legend_label = "Chart lines", text_color = "#6805AA",
-        title_text_color = "#7AC812", legend_text_color = "#1D5570"
-    )
+        make_html_diagram(
+            df = df, x = "local_date_time",
+            y = ["air_humidity", "humidity", "temperature"],
+            username = "vazgen-gasparyan", title = "Plotly diagram",
+            charts_colors = ["#52A8DE", "#60E450", "#E03737"],
+            x_label = "Date and time", y_label = "Data sizes",
+            legend_label = "Chart lines", text_color = "#6805AA",
+            title_text_color = "#7AC812", legend_text_color = "#1D5570"
+        )
