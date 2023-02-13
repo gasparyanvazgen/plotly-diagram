@@ -1,6 +1,6 @@
 ## Plotly diagram using python programming language
 
-> [Click here](https://vazgen-gasparyan.github.io/plotly-diagram/vazgen-gasparyan) to see what result you will get using this module.
+> [Click here](https://gasparyanvazgen.github.io/plotly-diagram/vazgen-gasparyan) to see what result you will get using this module.
 
 <hr/>
 
